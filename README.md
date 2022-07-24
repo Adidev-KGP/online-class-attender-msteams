@@ -36,6 +36,4 @@ There are few things you need to configure before running this bot.
  - Press ctrl+C to quit
 
 Written on Python3.
-
- # YOUTUBE REFERENCE TUTORIAL
- https://youtu.be/wY7ffeCT3Ro
+:
